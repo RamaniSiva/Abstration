@@ -8,6 +8,7 @@ public  class AbstractMain extends PartialAbs{
 	
 	public void deposit() {
 		System.out.println("8%");
+		System.out.println("new data added in abs1");
 	}
 	public static void main(String[] args) {
 		AbstractMain a=new AbstractMain();
